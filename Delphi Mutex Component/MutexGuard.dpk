@@ -1,0 +1,13 @@
+package MutexGuard;
+
+{$IMPLICITBUILD OFF}
+{$DESCRIPTION 'TSingleInstanceGuard - Mutex-based single-instance VCL component'}
+
+requires
+  rtl,
+  vcl;
+
+contains
+  uSingleInstanceGuard in 'uSingleInstanceGuard.pas';
+
+end.
