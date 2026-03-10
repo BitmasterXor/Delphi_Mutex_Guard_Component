@@ -13,7 +13,9 @@
 
 
 ## Overview
-
+<p align="center">
+  <img src="Preview.png" alt="Preview" width="700">
+</p>
 `TSingleInstanceGuard` wraps the Windows named mutex workflow into a reusable non-visual component.
 
 Instead of writing startup mutex boilerplate in every project, you can drop one component on your main form or data module and configure behavior from the Object Inspector.
