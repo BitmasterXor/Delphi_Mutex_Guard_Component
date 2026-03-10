@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="TSingleInstanceGuard.bmp" alt="MutexGuard Component Icon">
+  <img src="Preview.png" alt="MutexGuard Component Icon">
 </p>
 
 ## Overview
