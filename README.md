@@ -14,7 +14,7 @@
 
 ## Overview
 <p align="center">
-  <img src="Preview.png" alt="Preview" width="700">
+  <img src="Preview.png" alt="Preview">
 </p>
 `TSingleInstanceGuard` wraps the Windows named mutex workflow into a reusable non-visual component.
 
