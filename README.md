@@ -6,13 +6,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Delphi-VCL%20Win32-E62431?style=for-the-badge" alt="Delphi VCL Win32">
+  <img src="https://img.shields.io/badge/Delphi-VCL%20Win64-8E44AD?style=for-the-badge" alt="Delphi VCL Win64">
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge" alt="Windows">
   <img src="https://img.shields.io/badge/Component-TSingleInstanceGuard-2D3436?style=for-the-badge" alt="TSingleInstanceGuard">
 </p>
 
-<p align="center">
-  <img src="Preview.png" alt="MutexGuard Component Icon">
-</p>
 
 ## Overview
 
